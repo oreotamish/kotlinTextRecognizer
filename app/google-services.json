@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "615001070512",
+    "project_id": "text-recognizer-1e3d2",
+    "storage_bucket": "text-recognizer-1e3d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615001070512:android:d21f0c515032dfb5cc9475",
+        "android_client_info": {
+          "package_name": "io.dreamdreamdevelopers.recognizetext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615001070512-mo6i54f4ei62d3fc3ot9fj8opsidlfr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyTXsFMAcMBNlxstosXuaiDMkVSRksyZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615001070512-mo6i54f4ei62d3fc3ot9fj8opsidlfr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
